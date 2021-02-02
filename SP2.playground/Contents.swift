@@ -41,6 +41,42 @@ else
 
 //Part 5
 
+//Problem Set 1
 
+var firstNumber = 1
+var secondNumber = 0
 
+if firstNumber < secondNumber
+{
+    print("This is true.")
+}
 
+else
+{
+    print("This is false.")
+}
+
+//Problem Set 2
+
+var firstString = "ha"
+var secondString = "ha"
+
+if firstString == secondString
+{
+    print(firstString + secondString)
+}
+
+//Problem Set 3
+
+var firstBoolean = true
+var secondBoolean = false
+
+if firstBoolean == secondBoolean
+{
+    print("Bueno.")
+}
+
+else
+{
+    print("No bueno.")
+}
